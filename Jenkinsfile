@@ -28,3 +28,4 @@ pipeline
 @Library(value="jen-pipe-lib") _
 fromLibarary()
 echo "hello"
+myDeliveryPipeline {}
