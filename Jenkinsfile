@@ -25,6 +25,4 @@ pipeline
 	
 	}
 }*/
-@Library('jen-pipe-lib') _
 fromLibarary()
-myDeployment()
