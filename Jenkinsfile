@@ -25,5 +25,5 @@ pipeline
 	
 	}
 }*/
-@Library('jen-pipe-lib@master') _
+@Library('jen-pipe-lib') _
 myDeployment()
