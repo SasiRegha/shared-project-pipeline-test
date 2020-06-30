@@ -1,4 +1,4 @@
-@Library('jen-pipe-lib@testbranch') _
+/*@Library('jen-pipe-lib@testbranch') _
 
 pipeline
 {
@@ -24,4 +24,8 @@ pipeline
 		}
 	
 	}
-}
+}*/
+@Library('jen-pipe-lib') _
+myDeployment(
+    name: "SASI",
+    )
