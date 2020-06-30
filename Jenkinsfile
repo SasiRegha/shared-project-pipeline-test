@@ -10,6 +10,7 @@ pipeline
 			steps
 			{
 				echo "from jenkinsfile..."
+				echo "Hi..."
 			}
 		}
 		stage('from lib')
