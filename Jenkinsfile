@@ -28,5 +28,5 @@ pipeline
 @Library('jen-pipe-lib') _
 myDeployment
 (
-    name: 'senthil'
+	
 )
