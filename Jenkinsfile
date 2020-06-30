@@ -1,4 +1,4 @@
-@Library('jenkins-library') _
+@Library('jen-pipe-lib') _
 pipeline
 {
 	agent any 
