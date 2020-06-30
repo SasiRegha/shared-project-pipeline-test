@@ -25,5 +25,5 @@ pipeline
 	
 	}
 }*/
-@Library
+@Library() _
 fromLibarary()
