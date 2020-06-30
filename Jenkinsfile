@@ -25,4 +25,5 @@ pipeline
 	
 	}
 }*/
+@Library(value="jen-pipe-lib@master", changelog=true)
 fromLibarary()
