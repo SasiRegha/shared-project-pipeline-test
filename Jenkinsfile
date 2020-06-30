@@ -26,6 +26,7 @@ pipeline
 	}
 }*/
 @Library('jen-pipe-lib') _
-myDeployment(
+myDeployment
+(
     name: "SASI",
     )
